@@ -1,4 +1,3 @@
-# yue_yuan
 <h1>Restaurante Yue Yuan</h1>
 Menú de Restaurante
 Este repositorio contiene una página web sencilla que muestra el menú de un restaurante. La página web está diseñada de forma minimalista y fácil de navegar.
