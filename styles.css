@@ -1,7 +1,7 @@
 body {
     background-image: url(https://th.bing.com/th/id/OIG2.MBYWtfz.2YVzgvhVZkGE?pid=ImgGn); 
     font-family: Roboto, Georgia, Arial, sans-serif;
-    padding:20px;
+    padding:10px;
     background-size: contain;
     background-attachment: fixed;
 }
@@ -35,7 +35,7 @@ h1, h2 {
     background-color: rgb(248, 205, 148);
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding: 10px;
     max-width: 750px;
 }
 
